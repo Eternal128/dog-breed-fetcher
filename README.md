@@ -135,3 +135,7 @@ All tasks completed successfully. Tests passing.
 
 ## Implementation Complete
 All required functionality has been implemented and tested.
+
+## Testing Notes
+- 10/11 tests pass
+- DogApiBreedFetcherTest requires internet connection
